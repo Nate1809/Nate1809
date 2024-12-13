@@ -1,4 +1,4 @@
-# 🚀 Esteban Nathan Guzman | AI Alchemist 🧠
+# 🚀 Esteban Nathan Guzman | Tech Storyteller 🌟
 
 ## About Me
 
@@ -10,9 +10,9 @@ From strategic board game AIs to dance video classifiers, I transform intricate 
 
 ## 🎓 Education
 
-- **Stanford University** | Graduate Certificate in Artificial Intelligence, June 2024
+- **Stanford University** 🌲 | Graduate Certificate in Artificial Intelligence, June 2024
   - Advanced Coursework: AI Principles, Machine Learning, Deep Learning, Reinforcement Learning
-- **University of Texas at Austin** | B.S. in Computer Science, December 2022
+- **University of Texas at Austin** 🤘 | B.S. in Computer Science, December 2022
   - Specialized in Data Science, AI Ethics, and Advanced Programming
 
 ## 🛠️ Tech Wizardry
@@ -43,18 +43,18 @@ From strategic board game AIs to dance video classifiers, I transform intricate 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 🌈 Breakthrough Projects
+## 🌈 Pixel Playground
 
-### 🎲 Catan AI Agent: Strategy Unleashed
+### 🎲 Catan AI Agent: Strategic Pixel Conquest
 Imagine an AI that doesn't just play Catan, but *masters* it. Using Monte-Carlo Tree Search, I've created an agent that learns, adapts, and strategizes like a digital board game champion.
 
-### 💃 Dance Video Classification: Movement Decoded
+### 💃 Dance Video Classification: Rhythm Decoded
 Transforming how machines perceive dance. My enhanced I3D model doesn't just watch – it *understands* the rhythm, style, and nuance of movement.
 
-### 🛒 Super Shopper: AI-Powered Grocery Companion
+### 🛒 Super Shopper: Intelligent Aisle Navigator
 Who said grocery shopping can't be intelligent? This app turns your shopping trip into a data-driven adventure, optimizing every aisle and item.
 
-## 🌠 Current Explorations
+## 🌠 Current Pixel Explorations
 
 - Pushing the boundaries of Reinforcement Learning
 - Crafting MLOps workflows that sing with efficiency
@@ -66,4 +66,4 @@ Who said grocery shopping can't be intelligent? This app turns your shopping tri
 [![GitHub](https://img.shields.io/badge/GitHub-Nate1809-181717?style=flat-square&logo=github)](https://github.com/Nate1809)
 [![Personal Website](https://img.shields.io/badge/Website-nathan--guzman.netlify.app-4A90E2?style=flat-square&logo=netlify)](https://nathan-guzman.netlify.app/)
 
-*Building the future, one algorithm at a time* 🚀✨
+*Transforming bits into brilliant solutions* 🚀✨
