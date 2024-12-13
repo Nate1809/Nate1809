@@ -1,4 +1,4 @@
-# 🚀 Esteban Nathan Guzman | Tech Storyteller 🌟
+# 🚀 Esteban Nathan Guzman | Curiosity-Driven Developer 🌟
 
 ## About Me
 
@@ -14,6 +14,10 @@ From strategic board game AIs to dance video classifiers, I transform intricate 
   - Advanced Coursework: AI Principles, Machine Learning, Deep Learning, Reinforcement Learning
 - **University of Texas at Austin** 🤘 | B.S. in Computer Science, December 2022
   - Specialized in Data Science, AI Ethics, and Advanced Programming
+- **Meta Back-End Developer Professional Certificate** 🌐 | November 2024
+  - Comprehensive 9-course program in Back-End Development
+  - Deep dive into Python, Databases, Django Web Framework, and APIs
+  - Completed real-world back-end development capstone projects
 
 ## 🛠️ Tech Wizardry
 
@@ -53,12 +57,6 @@ Transforming how machines perceive dance. My enhanced I3D model doesn't just wat
 
 ### 🛒 Super Shopper: Intelligent Aisle Navigator
 Who said grocery shopping can't be intelligent? This app turns your shopping trip into a data-driven adventure, optimizing every aisle and item.
-
-## 🌠 Current Pixel Explorations
-
-- Pushing the boundaries of Reinforcement Learning
-- Crafting MLOps workflows that sing with efficiency
-- Expanding Computer Vision's understanding of our world
 
 ## 📡 Connect & Collaborate
 
