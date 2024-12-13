@@ -47,7 +47,7 @@ From strategic board game AIs to dance video classifiers, I transform intricate 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 🌈 Pixel Playground
+## 🚀 Code Chronicles: My Digital Creations
 
 ### 🎲 Catan AI Agent: Strategic Pixel Conquest
 Imagine an AI that doesn't just play Catan, but *masters* it. Using Monte-Carlo Tree Search, I've created an agent that learns, adapts, and strategizes like a digital board game champion.
