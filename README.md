@@ -10,11 +10,11 @@ From strategic board game AIs to dance video classifiers, I transform intricate 
 
 ## 🎓 Education
 
-- **Stanford University** 🌲 | Graduate Certificate in Artificial Intelligence, June 2024
+- **Stanford University** 🌲 | Graduate Certificate in Artificial Intelligence
   - Advanced Coursework: AI Principles, Machine Learning, Deep Learning, Reinforcement Learning
-- **University of Texas at Austin** 🤘 | B.S. in Computer Science, December 2022
+- **University of Texas at Austin** 🤘 | B.S. in Computer Science
   - Specialized in Data Science, AI Ethics, and Advanced Programming
-- **Meta Back-End Developer Professional Certificate** 🌐 | November 2024
+- **Meta Back-End Developer Professional Certificate** 🌐
   - Comprehensive 9-course program in Back-End Development
   - Deep dive into Python, Databases, Django Web Framework, and APIs
   - Completed real-world back-end development capstone projects
