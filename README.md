@@ -14,10 +14,8 @@ From strategic board game AIs to dance video classifiers, I transform intricate 
   - Advanced Coursework: AI Principles, Machine Learning, Deep Learning, Reinforcement Learning
 - **University of Texas at Austin** 🤘 | B.S. in Computer Science
   - Specialized in Data Science, AI Ethics, and Advanced Programming
-- **Meta Back-End Developer Professional Certificate** 🌐
-  - Comprehensive 9-course program in Back-End Development
-  - Deep dive into Python, Databases, Django Web Framework, and APIs
-  - Completed real-world back-end development capstone projects
+- **University of Helsinki Full Stack Open** 🌐
+  - Full-stack JavaScript, React, Express.js/Node.js, automated testing (Playwright)
 
 ## 🛠️ Tech Wizardry
 
@@ -30,7 +28,6 @@ From strategic board game AIs to dance video classifiers, I transform intricate 
 
 ### Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-009688?style=flat-square&logo=data:image/svg+xml;base64,...)
@@ -47,7 +44,7 @@ From strategic board game AIs to dance video classifiers, I transform intricate 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 🚀 Code Chronicles: My Digital Creations
+## 🚀 Code Chronicles: Some of My Digital Creations
 
 ### 🎲 Catan AI Agent: Strategic Pixel Conquest
 Imagine an AI that doesn't just play Catan, but *masters* it. Using Monte-Carlo Tree Search, I've created an agent that learns, adapts, and strategizes like a digital board game champion.
@@ -55,8 +52,11 @@ Imagine an AI that doesn't just play Catan, but *masters* it. Using Monte-Carlo 
 ### 💃 Dance Video Classification: Rhythm Decoded
 Transforming how machines perceive dance. My enhanced I3D model doesn't just watch – it *understands* the rhythm, style, and nuance of movement.
 
-### 🛒 Super Shopper: Intelligent Aisle Navigator
-Who said grocery shopping can't be intelligent? This app turns your shopping trip into a data-driven adventure, optimizing every aisle and item.
+### 🛒 Sei: Multi-Agent AI Therapist
+Reimagining AI Therapy with Google’s Agent Development Kit
+
+### 💪 Muscle Buddy
+AI fitness coaching, science backed hypertrophy training
 
 ## 📡 Connect & Collaborate
 
