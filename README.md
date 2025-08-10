@@ -62,6 +62,5 @@ AI fitness coaching, science backed hypertrophy training
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathan%20Guzman-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/nathan-guzman-47810a170)
 [![GitHub](https://img.shields.io/badge/GitHub-Nate1809-181717?style=flat-square&logo=github)](https://github.com/Nate1809)
-[![Personal Website](https://img.shields.io/badge/Website-nathan--guzman.netlify.app-4A90E2?style=flat-square&logo=netlify)](https://nathan-guzman.netlify.app/)
 
 *Where curiosity meets creation* 🚀✨💻
